@@ -1,0 +1,11 @@
+C:\Users\moshe\source\repos\vbapp\vbapp\bin\Debug\netcoreapp2.1\vbapp.deps.json
+C:\Users\moshe\source\repos\vbapp\vbapp\bin\Debug\netcoreapp2.1\vbapp.runtimeconfig.json
+C:\Users\moshe\source\repos\vbapp\vbapp\bin\Debug\netcoreapp2.1\vbapp.runtimeconfig.dev.json
+C:\Users\moshe\source\repos\vbapp\vbapp\bin\Debug\netcoreapp2.1\vbapp.dll
+C:\Users\moshe\source\repos\vbapp\vbapp\bin\Debug\netcoreapp2.1\vbapp.pdb
+C:\Users\moshe\source\repos\vbapp\vbapp\obj\Debug\netcoreapp2.1\vbapp.vbprojAssemblyReference.cache
+C:\Users\moshe\source\repos\vbapp\vbapp\obj\Debug\netcoreapp2.1\vbapp.vbproj.CoreCompileInputs.cache
+C:\Users\moshe\source\repos\vbapp\vbapp\obj\Debug\netcoreapp2.1\vbapp.AssemblyInfoInputs.cache
+C:\Users\moshe\source\repos\vbapp\vbapp\obj\Debug\netcoreapp2.1\vbapp.AssemblyInfo.vb
+C:\Users\moshe\source\repos\vbapp\vbapp\obj\Debug\netcoreapp2.1\vbapp.dll
+C:\Users\moshe\source\repos\vbapp\vbapp\obj\Debug\netcoreapp2.1\vbapp.pdb
