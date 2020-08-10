@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "vbapp", "vbapp\vbapp.vbproj", "{BE73E003-214B-4287-8414-40E4D5499869}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "vbapp", "vbapp\vbapp.vbproj", "{BE73E003-214B-4287-8414-40E4D5499869}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WebApplication1", "WebApplication1\WebApplication1.vbproj", "{421E63EE-D44B-453F-B147-89F46AA23C4F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "todoListApi", "todoListApi\todoListApi.vbproj", "{31A17D18-9528-4F4C-B324-D97C2290EAEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{BE73E003-214B-4287-8414-40E4D5499869}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE73E003-214B-4287-8414-40E4D5499869}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE73E003-214B-4287-8414-40E4D5499869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421E63EE-D44B-453F-B147-89F46AA23C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421E63EE-D44B-453F-B147-89F46AA23C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421E63EE-D44B-453F-B147-89F46AA23C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421E63EE-D44B-453F-B147-89F46AA23C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A17D18-9528-4F4C-B324-D97C2290EAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A17D18-9528-4F4C-B324-D97C2290EAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A17D18-9528-4F4C-B324-D97C2290EAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A17D18-9528-4F4C-B324-D97C2290EAEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
